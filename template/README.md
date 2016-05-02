@@ -1,9 +1,8 @@
 # <PACKAGE_NAME>
 <PACKAGE_ONELINER>
 
-Source at [GitHub](<GIT_REPO>).
-
-Docs at [PythonHosted.org](http://pythonhosted.org/<PACKAGE_NAME_LOWER>/).
+- Source at [GitHub](<GIT_REPO>).
+- Docs at [PythonHosted.org](http://pythonhosted.org/<PACKAGE_NAME_LOWER>/).
 
 ## Install
 
