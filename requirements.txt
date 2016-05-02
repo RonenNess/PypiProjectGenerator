@@ -1,0 +1,4 @@
+fileter==1.0.4
+mkdocs==0.15.3
+colorama==0.3.7
+slugify==0.0.1
