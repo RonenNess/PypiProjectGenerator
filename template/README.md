@@ -56,5 +56,5 @@ To run tests please clone from git.
 For bugs use the issue report, for other stuff feel free to contact me at <AUTHOR_EMAIL>.
 
 
-`Note: project structure generated via [PypiProjectGenerator](https://github.com/RonenNess/PypiProjectGenerator).`
+__Project structure generated via [PypiProjectGenerator](https://github.com/RonenNess/PypiProjectGenerator).__
 
